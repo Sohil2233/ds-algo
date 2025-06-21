@@ -2,30 +2,25 @@
 #include<conio.h>
 #include<math.h>
 using namespace std;
-
-
-
-
-
-int evensum(int n)
-{
-	int sum=0;
-	for(int i=1;i<=n;i=i+1)
-	{
-	//	if(i%2==0)
-		sum=sum+i;
-	}
-	return sum;
-}
-int main()
-{
-	int n;
-	cout<<"enter n ";
-	cin>>n;
-	int sum=evensum(n);
-	cout<<sum;
-	return 0;
-}
+// int evensum(int n)
+// {
+// 	int sum=0;
+// 	for(int i=1;i<=n;i=i+1)
+// 	{
+// 	//	if(i%2==0)
+// 		sum=sum+i;
+// 	}
+// 	return sum;
+// }
+// int main()
+// {
+// 	int n;
+// 	cout<<"enter n ";
+// 	cin>>n;
+// 	int sum=evensum(n);
+// 	cout<<sum;
+// 	return 0;
+// }
 
 
 

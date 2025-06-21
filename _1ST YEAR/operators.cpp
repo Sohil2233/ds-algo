@@ -16,6 +16,8 @@ int main()
 //	cout<<a*b<<endl;
 //	cout<<a/b<<endl;
 //	cout<<a%b<<endl;
+
+
 //	//relational
 //	cout<<(a<b)<<endl;
 //	cout<<(a>b)<<endl;
